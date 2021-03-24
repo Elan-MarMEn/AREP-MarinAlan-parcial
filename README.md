@@ -38,10 +38,10 @@ mvn javadoc:javadoc
 ## Running on AWS
 
 Remote console
-> [](https://github.com/Elan-MarMEn/AREP-MarinAlan-parcial/blob/main/explain%20resources/img/VirtualMachine.png)
+> [](/explain%20resources/img/VirtualMachine.png)
 
 Response to value 3 for sqrt
-> [](https://github.com/Elan-MarMEn/AREP-MarinAlan-parcial/blob/main/explain%20resources/img/parcialAWS.png)
+> [](/explain%20resources/img/parcialAWS.png)
 
 General running
 > [](/explain%20resources/img/AwsParcial2.png)
