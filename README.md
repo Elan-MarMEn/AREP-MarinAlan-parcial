@@ -59,13 +59,11 @@ To run the service in EC2 requires the use of the Dockerfile, to create an image
 If you want to run the appweb on a local port 
 you must use the comand below for windows:
 ```
-java  -cp target/classes;target/dependency/* edu.escuelaing.arep.secure.app.LogService.LogServiceApp
-java  -cp target/classes;target/dependency/* edu.escuelaing.arep.secure.app.StoreService.StoreserviceApp
+java  -cp target/classes;target/dependency/* edu.escuelaing.arep.parcial2tercio.App
 ```
 for Unix:
 ```
-java $JAVA_OPTS -cp target/classes:target/dependency/* edu.escuelaing.arep.secure.app.LogService.LogServiceApp
-java $JAVA_OPTS -cp target/classes:target/dependency/* edu.escuelaing.arep.secure.app.StoreService.StoreserviceApp
+java $JAVA_OPTS -cp target/classes:target/dependency/* edu.escuelaing.arep.parcial2tercio.App
 ```
 
 Use the next comand to know the result of the tests
