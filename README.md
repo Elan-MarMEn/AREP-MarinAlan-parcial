@@ -38,13 +38,13 @@ mvn javadoc:javadoc
 ## Running on AWS
 
 Remote console
-[](/explain%20resources/img/VirtualMachine.png)
+> ![](/explain%20resources/img/VirtualMachine.png)
 
 Response to value 3 for sqrt
-[](/explain%20resources/img/parcialAWS.png)
+> ![](/explain%20resources/img/parcialAWS.png)
 
 General running
-[](/explain%20resources/img/AwsParcial2.png)
+> ![](/explain%20resources/img/AwsParcial2.png)
 
 ## How to use EC2  
 To run the service in EC2 requires the use of the Dockerfile, to create an image that will be uploaded to docker hub and once you access the remote console of the EC2 instance will pull the desired image that will automatically create a container and put to run the service on one of the ports that have been enabled on the instance itself.
